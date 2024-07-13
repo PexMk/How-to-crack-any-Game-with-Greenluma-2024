@@ -35,6 +35,10 @@
    
  - 𝗦𝘁𝗲𝗽 𝟮: Add the Appid in to the Appid folder like i already said here
 
+ - 𝗘𝘅𝗮𝗺𝗽𝗹𝗲:
+   
+    ![Unbenannt](https://github.com/user-attachments/assets/7e2262fe-4247-4c9e-88fb-5a64fb7a4b7e)
+
 ## Running Greenluma
 
 - Just run the DeleteSteamAppCache.exe press okay and run the steam.exe
