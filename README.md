@@ -1,4 +1,4 @@
-# How to crack any Game with Greenluma-2024 🕹️
+# How to crack Steam Games with Greenluma-2024 🕹️
 
 ## Tabel of Contents 
  - [Installation of Greenluma](#installation-of-greenluma-2024)
