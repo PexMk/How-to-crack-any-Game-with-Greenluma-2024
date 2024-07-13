@@ -4,7 +4,7 @@
  - [Installation of Greenluma](#installation-of-greenluma-2024)
  - [How to get the game files](#how-to-get-the-game-files)
  - [Installing the game files](#installing-the-game-files)
- - [Running Greenluma](running-greenluma)
+ - [Running Greenluma](#running-greenluma)
 
 ## Installation of Greenluma 2024
 - 𝗦𝘁𝗲𝗽 𝟭: Download Greenluma from this [website](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709&hilit=greenluma).
@@ -32,7 +32,7 @@
    
  - 𝗦𝘁𝗲𝗽 𝟮: Add the Appid in to the Appid folder like i already said here
 
-# Running Greenluma
+## Running Greenluma
 
 - Just run the DeleteSteamAppCache.exe press okay and run the steam.exe
 
