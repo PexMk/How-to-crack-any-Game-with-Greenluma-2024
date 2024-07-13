@@ -1,6 +1,6 @@
 # How to crack Steam Games with Greenluma-2024 🕹️#
 
- -Note: This is a Tutorial for cracking steam games using greenluma and clean steam game files
+ -Note: This is a Tutorial for cracking steam games using greenluma and clean steam game files.
 
 ## Tabel of Contents 
  - [Installation of Greenluma](#installation-of-greenluma-2024)
@@ -10,12 +10,12 @@
 
 ## Installation of Greenluma 2024
 
-- Note: This is just a quick tutorial for more detail just read the instruction on the Download page
+- Note: This is just a quick tutorial for more detail just read the instruction on the Download page.
 
 - 𝗦𝘁𝗲𝗽 𝟭: Download Greenluma from this [website](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709&hilit=greenluma).
   
 - 𝗦𝘁𝗲𝗽 𝟮: Follow the instruction to install Greenluma in steahlmode and create a folder named AppList in the steam main directory (where the steam.exe is located)
-  in this folder you will set up your game list
+  in this folder you will set up your game list.
 
 - 𝗦𝘁𝗲𝗽 𝟯: Search up your game on the [steamDB](https://steamdb.info/) and copie the Appid. Create a txt file with the name 0.txt and past your Appid in there. For more games or DLC repeat the process but create a different txt file named 1.txt (The number increases by one 2.txt,3.txt-> for the next game/DLC).
 
@@ -35,7 +35,7 @@
    
  - 𝗦𝘁𝗲𝗽 𝟭: You have two folder named depotcache and common you have to past the depotcache in the steam main directory (where the steam.exe is located) and the common folder past it in the steamapps folder.
    
- - 𝗦𝘁𝗲𝗽 𝟮: Add the Appid in to the Appid folder like i already said here
+ - 𝗦𝘁𝗲𝗽 𝟮: Add the Appid in to the Appid folder like i already said here.
 
  - 𝗘𝘅𝗮𝗺𝗽𝗹𝗲:
    
