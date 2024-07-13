@@ -1,6 +1,6 @@
 # How to crack Steam Games with Greenluma-2024 🕹️#
 
- -Note: This is a Tutorial for cracking steam games using greenluma and clean steam game files.
+ - Note: This is a Tutorial for cracking steam games using greenluma and clean steam game files.
 
 ## Tabel of Contents 
  - [Installation of Greenluma](#installation-of-greenluma-2024)
