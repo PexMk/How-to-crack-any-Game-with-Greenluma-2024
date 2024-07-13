@@ -20,4 +20,10 @@
 
 - 🚨IMPORTENT🚨 to make this work you have to get the Steam game clean files (Game files dirctly copie form steam game dirctory).
 
-- 
+- The best website for steam shearing content is this [one](https://cs.rin.ru/forum/index.php) but make sure you have an account for downloading your files.
+  As long you get the Steam clean files you can start with the actually "game cracking".
+
+## Installing the game files 
+
+   
+ - 𝗦𝘁𝗲𝗽 𝟭: if you have two folder named depotcache and common you have to past the depotcache in the steam main directory (where the steam.exe is located) and the common folder past it in the steamapps folder.
