@@ -7,6 +7,9 @@
  - [Running Greenluma](#running-greenluma)
 
 ## Installation of Greenluma 2024
+
+- Note: This is just a quick tutorial for more detail just read the instruction on the Download page
+
 - 𝗦𝘁𝗲𝗽 𝟭: Download Greenluma from this [website](https://cs.rin.ru/forum/viewtopic.php?f=29&t=103709&hilit=greenluma).
   
 - 𝗦𝘁𝗲𝗽 𝟮: Follow the instruction to install Greenluma in steahlmode and create a folder named AppList in the steam main directory (where the steam.exe is located)
