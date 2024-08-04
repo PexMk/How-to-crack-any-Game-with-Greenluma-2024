@@ -30,6 +30,9 @@
 - The best website for steam shearing content is this [one](https://cs.rin.ru/forum/index.php) but make sure you have an account for downloading your files.
   As long you get the Steam clean files you can start with the actually "game cracking".
 
+- Or by simply getting the game you want sharded.
+  
+
 ## Installing the game files 
 
    
